@@ -1,0 +1,58 @@
+body {
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd31sxl6qgne2yj.cloudfront.net%2Fwordpress%2Fwp-content%2Fuploads%2F20200805101344%2FZubaz-Buffalo-Bills-Pattern-thumb.jpg&f=1&nofb=1&ipt=c9f23de6b7f2b30fb8e66544fae97b971f7a1a575c5712dc250ceaed6b93bfd9&ipo=images");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+
+.container {
+    background: white;
+    max-width: 75%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 15px;
+}
+
+h1 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: white;
+    border: 3px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+p {
+    font-weight: bold
+}
+
+#rfl-el {
+    color: red;
+}
+
+#rfg-el {
+    color: green;
+}
+
+#ip-el {
+    color: red
+}
+
+#cp-el {
+    color: green
+}
